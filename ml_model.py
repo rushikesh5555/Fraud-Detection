@@ -8,3 +8,5 @@ def model12():
 
 def model3():
     print("adding code for model 3")
+
+print("final model is model 2")
